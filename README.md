@@ -1,6 +1,6 @@
 
 
-# STAR + RSEM (human/mouse) – Nextflow DSL2
+# STAR + RSEM + HLA(T1K) + Immune_deconv (human/mouse) – Nextflow DSL2
 
 
 A simple, reliable pipeline for aligning RNA‑seq reads with [STAR] and quantifying with [RSEM]. Works on  HPC with Docker/Singularity/Conda. Also a built in docker image can be used for deployment.
